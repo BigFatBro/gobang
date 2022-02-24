@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Gobang"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Gobang">
+				<Option output="D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Gobang.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 Gobang"/>
+					<CompileFile command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Gobang/fast">
+				<Option output="D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Gobang.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 Gobang/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding_Project/C_Plus_Project/gobang_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/Checkerboard.cpp">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/Checkerboard.h">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/ChessPiece.cpp">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/ChessPiece.h">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/Game.cpp">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/Game.h">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/Judge.cpp">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/Judge.h">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/Machine.cpp">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/Machine.h">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/Player.cpp">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/Player.h">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/main.cpp">
+			<Option target="Gobang"/>
+		</Unit>
+		<Unit filename="D:/Coding_Project/C_Plus_Project/gobang_game/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
